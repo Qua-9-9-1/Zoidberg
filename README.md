@@ -20,3 +20,11 @@ pip install jupyter pandas numpy matplotlib scikit-learn opencv-python torch
 - scikit-learn
 - opencv-python
 - PyTorch
+
+install them on the venv by running the following command in the terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+
