@@ -19,7 +19,7 @@ pip install jupyter pandas numpy matplotlib scikit-learn opencv-python torch
 - matplotlib
 - scikit-learn
 - opencv-python
-- PyTorch
+- tensorflow
 
 install them on the venv by running the following command in the terminal:
 
